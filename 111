@@ -1,0 +1,4 @@
+import os
+import time
+time.sleep(2)
+os.system('python C:\\Users\\1395264\\PycharmProjects\\lem\\.venv\\Lib\\site-packages\\pip\\_internal\\cli\\main.py')
